@@ -22,6 +22,11 @@ Publicity Central is a content management system designed to streamline and cent
 
 [Figma Link](https://www.figma.com/file/s2XFtQop5r7IqdXUnSyT89/CISSA-CMS?type=design&node-id=0%3A1&t=SI41biIxNdHoohGn-1)
 
+![login-page](https://github.com/konfucius1/cissa-publicity-cms/assets/72403268/656a6688-51fc-43e8-a67f-ca8554e7d5cf)
+![dashboard](https://github.com/konfucius1/cissa-publicity-cms/assets/72403268/9ff7d553-d12e-4835-909c-303a83e11d2a)
+![create-event](https://github.com/konfucius1/cissa-publicity-cms/assets/72403268/1c3aba9b-6ad4-46eb-8ac3-7711ef11a141)
+![manage-events](https://github.com/konfucius1/cissa-publicity-cms/assets/72403268/f74db26a-39b0-49b2-bb57-846eeb72243f)
+
 ## Getting Started
 
 ## Usage
