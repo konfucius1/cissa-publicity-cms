@@ -4,7 +4,9 @@ import Sidebar from '../components/Sidebar';
 const SharedLayout = () => {
   return (
     <div className="flex flex-row">
-      <Sidebar />
+      <div className="hidden lg:block">
+        <Sidebar />
+      </div>
       <section>
         <Outlet />
       </section>
