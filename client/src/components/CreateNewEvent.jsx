@@ -2,7 +2,7 @@ import CreateIcon from '../assets/create-icon.svg';
 
 const CreateNewEvent = () => {
   return (
-    <div className="flex justify-center items-center rounded-lg bg-base-100 outline outline-1 outline-gray-300">
+    <div className="flex justify-center items-center rounded-lg bg-base-100 outline outline-1 outline-gray-300 w-96">
       <figure className="pl-4">
         <img src={CreateIcon} alt="Movie" />
       </figure>

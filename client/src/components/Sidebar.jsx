@@ -11,7 +11,7 @@ const Sidebar = () => {
   ];
 
   return (
-    <div className="drawer lg:drawer-open max-w-fit h-screen">
+    <div className="drawer lg:drawer-open max-w-fit h-full">
       <input id="my-drawer-2" type="checkbox" className="drawer-toggle" />
       <div className="drawer-side bg-neutral-900 p-8">
         <Link to="/">
