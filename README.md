@@ -28,6 +28,12 @@ Publicity Central is a content management system designed to streamline and cent
 ![manage-events](https://github.com/konfucius1/cissa-publicity-cms/assets/72403268/f74db26a-39b0-49b2-bb57-846eeb72243f)
 
 ## Getting Started
+To run client
+```
+cd client
+npm install
+npm run dev
+```
 
 ## Usage
 
